@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package commentcov.proto;
+package commentcov.plugin;
 
 message Block {
     uint32 start_line = 1;
