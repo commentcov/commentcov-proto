@@ -16,7 +16,7 @@ message Comment {
 
 message CoverageItem {
     enum Scope {
-        UNKNONW = 0;
+        UNKNOWN = 0;
         FILE = 1;
         PUBLIC_MODULE = 2;
         PRIVATE_MODULE = 3;
